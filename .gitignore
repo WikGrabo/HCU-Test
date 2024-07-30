@@ -1,3 +1,10 @@
+# ESP-IDF specific
+build/
+debug.log
+sdkconfig
+sdkconfig.old
+warnings.txt
+
 # Prerequisites
 *.d
 
